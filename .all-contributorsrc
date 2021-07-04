@@ -20,7 +20,7 @@
     "docs/README.se.md",
     "docs/README.ta.md",
     "docs/README.tr.md",
-    "docs/README.tw.md",
+    "docs/README.tw.zh.md",
     "docs/README.ua.md"
   ],
   "imageSize": 100,
@@ -849,6 +849,15 @@
       "name": "Guy Adler",
       "avatar_url": "https://avatars.githubusercontent.com/u/44903310?v=4",
       "profile": "https://github.com/Guy-Adler",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "kewang",
+      "name": "kewang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/795839?v=4",
+      "profile": "https://github.com/kewang",
       "contributions": [
         "translation"
       ]
